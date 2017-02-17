@@ -10,3 +10,7 @@
 ```
 [ebs@localhost bin]$ ./restart.sh stop
 ```
+- restart.sh 脚本添加运行权限
+```
+[ebs@localhost bin]$ chmod +x ./restart.sh
+```
