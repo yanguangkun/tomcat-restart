@@ -1,4 +1,8 @@
 #!/bin/sh
+# restart.sh
+#
+# Created by 八千里路
+# 2017/02/17
 #
 # tomcat重启脚本
 #
